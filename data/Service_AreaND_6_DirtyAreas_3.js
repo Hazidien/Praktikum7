@@ -1,0 +1,1 @@
+var json_Service_AreaND_6_DirtyAreas_3 = {"type":"FeatureCollection","name":"Service_AreaND_6_DirtyAreas_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"ObjectID":"1","IsRetired":0.0,"DirtyArea_Length":0.0,"DirtyArea_Area":0.0},"geometry":{"type":"MultiPolygon","coordinates":[[]]}}]}
